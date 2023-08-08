@@ -1,0 +1,45 @@
+@import url("../../assets/fonts/fonts.css");
+
+@media screen and (min-width: 993px) {
+  .leftbtn {
+    float: left;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .leftbtn {
+    padding-top: 50px;
+    justify-content: center;
+  }
+}
+
+.teal {
+  border-radius: 5px;
+  background-color: #46c1c1;
+  color: white;
+  font-weight: bold;
+}
+
+.white {
+  border-color: rgb(221, 218, 218);
+  margin: 0.625rem;
+}
+
+.bfont {
+  font-family: Inter-Regular, sans-serif;
+}
+
+
+
+.primary {
+  background: var(--unnamed-color-46c1c1) 0% 0% no-repeat padding-box;
+  background: #46c1c1 0% 0% no-repeat padding-box;
+  border-radius: 4px;
+  opacity: 1;
+  font-family: Poppins-SemiBold, sans-serif;
+}
+
+.primary:hover {
+  background-color: darkturquoise;
+}
+

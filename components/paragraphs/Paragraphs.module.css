@@ -1,0 +1,78 @@
+@import url("../../assets/fonts/fonts.css");
+
+.para1{
+  color: var(--unnamed-color-0b0e19);
+  text-align: left;
+  font: normal normal normal 1.8rem/2.8rem Inter, sans-serif;
+  letter-spacing: 0px;
+  color: #0B0E19;
+  opacity: 1;
+}
+
+@media screen and (min-width: 993px) {
+  .paraleft {
+    float: left;
+    text-align: left;
+    margin-right: 3rem;
+    padding-right: 3rem;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .paraleft {
+    margin-left: 2.3rem;
+    margin-right: 2.5rem;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+.paralefts {
+  float: left;
+  text-align: left;
+}
+
+.paralarge {
+  font-size: x-large;
+}
+
+.fparg {
+  line-height: 1.8;
+  -webkit-line-clamp: 3;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.link {
+  color: #0e47fb;
+}
+
+.pfont{
+  font-family: Inter-Regular, sans-serif;
+}
+
+.rating{
+  font-size: 20px;
+}
+
+.semibold {
+  font-family: Inter-SemiBold, sans-serif;
+}
+
+.bold {
+  font-family: Inter-Bold, sans-serif;
+}
+
+.subheadfont {
+  font-family: Poppins-Regular, sans-serif;
+}
+
+.pulsefont {
+  font-family: WorkSans-SemiBold, sans-serif;
+}
+
+.ftext {
+  font-family: Helvetica-Regular, sans-serif;
+}

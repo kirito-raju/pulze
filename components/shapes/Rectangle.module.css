@@ -1,0 +1,11 @@
+.rectangle {
+  width: 8.813rem;
+  height: 3.75rem;
+  background: var(--unnamed-color-0b0e19) 0% 0% no-repeat padding-box;
+  background: #0b0e19 0% 0% no-repeat padding-box;
+  opacity: 0.05;
+  max-width: 100%;
+  margin-left: 1.563rem;
+  align-items: end;
+  justify-content: end;
+}

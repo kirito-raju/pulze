@@ -1,0 +1,275 @@
+/* Font family - Helvetica starts here */
+
+@font-face {
+  font-family: "Helvetica-Bold";
+  src: local("Helvetica-Bold"), url("./Helvetica-Font/Helvetica-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Helvetica-BoldOblique";
+  src: local("Helvetica-BoldOblique"),
+    url("./Helvetica-Font/Helvetica-BoldOblique.ttf");
+}
+
+@font-face {
+  font-family: "Helvetica-Light";
+  src: local("Helvetica-Light"),
+    url("./Helvetica-Font/helvetica-light-587ebe5a59211.ttf");
+}
+
+@font-face {
+  font-family: "Helvetica-Oblique";
+  src: local("Helvetica-Oblique"), url("./Helvetica-Font/Helvetica-Oblique.ttf");
+}
+
+@font-face {
+  font-family: "Helvetica";
+  src: local("Helvetica"), url("./Helvetica-Font/Helvetica.ttf");
+}
+
+/* Font family - Helvetica ends here */
+
+/* Font family - Inter starts here */
+
+@font-face {
+  font-family: "Inter-Black";
+  src: local("Inter-Black"), url("./Inter/static/Inter-Black.ttf");
+}
+
+@font-face {
+  font-family: "Inter-Bold";
+  src: local("Inter-Bold"), url("./Inter/static/Inter-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Inter-ExtraBold";
+  src: local("Inter-ExtraBold"), url("./Inter/static/Inter-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: "Inter-ExtraLight";
+  src: local("Inter-ExtraLight"), url("./Inter/static/Inter-ExtraLight.ttf");
+}
+
+@font-face {
+  font-family: "Inter-Light";
+  src: local("Inter-Light"), url("./Inter/static/Inter-Light.ttf");
+}
+
+@font-face {
+  font-family: "Inter-Medium";
+  src: local("Inter-Medium"), url("./Inter/static/Inter-Medium.ttf");
+}
+
+@font-face {
+  font-family: "Inter-Regular";
+  src: local("Inter-Regular"), url("./Inter/static/Inter-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Inter-SemiBold";
+  src: local("Inter-SemiBold"), url("./Inter/static/Inter-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "Inter-Thin";
+  src: local("Inter-Thin"), url("./Inter/static/Inter-Thin.ttf");
+}
+
+/* Font family - Inter ends here */
+
+/* Font family - Poppins starts here */
+
+@font-face {
+  font-family: "Poppins-Black";
+  src: local("Poppins-Black"), url("./Poppins/Poppins-Black.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-BlackItalic";
+  src: local("Poppins-BlackItalic"), url("./Poppins/Poppins-BlackItalic.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-Bold";
+  src: local("Poppins-Bold"), url("./Poppins/Poppins-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-BlackItalic";
+  src: local("Poppins-BlackItalic"), url("./Poppins/Poppins-BlackItalic.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-ExtraBold";
+  src: local("Poppins-ExtraBold"), url("./Poppins/Poppins-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-ExtraBoldItalic";
+  src: local("Poppins-ExtraBoldItalic"),
+    url("./Poppins/Poppins-ExtraBoldItalic.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-ExtraLight";
+  src: local("Poppins-ExtraLight"), url("./Poppins/Poppins-ExtraLight.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-ExtraLightItalic";
+  src: local("Poppins-ExtraLightItalic"),
+    url("./Poppins/Poppins-ExtraLightItalic.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-Italic";
+  src: local("Poppins-Italic"), url("./Poppins/Poppins-Italic.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-Light";
+  src: local("Poppins-Light"), url("./Poppins/Poppins-Light.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-LightItalic";
+  src: local("Poppins-LightItalic"), url("./Poppins/Poppins-LightItalic.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-Medium";
+  src: local("Poppins-Medium"), url("./Poppins/Poppins-Medium.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-MediumItalic";
+  src: local("Poppins-MediumItalic"), url("./Poppins/Poppins-MediumItalic.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-Regular";
+  src: local("Poppins-Regular"), url("./Poppins/Poppins-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-SemiBold";
+  src: local("Poppins-SemiBold"), url("./Poppins/Poppins-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-Thin";
+  src: local("Poppins-Thin"), url("./Poppins/Poppins-Thin.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-ThinItalic";
+  src: local("Poppins-ThinItalic"), url("./Poppins/Poppins-ThinItalic.ttf");
+}
+
+/* Font family - Poppins ends here */
+
+/* Font family - WorkSans starts here */
+
+@font-face {
+  font-family: "WorkSans-Black";
+  src: local("WorkSans-Black"), url("./Work_Sans/static/WorkSans-Black.ttf");
+}
+
+@font-face {
+  font-family: "WorkSans-BlackItalic";
+  src: local("WorkSans-BlackItalic"),
+    url("./Work_Sans/static/WorkSans-BlackItalic.ttf");
+}
+
+@font-face {
+  font-family: "WorkSans-Bold";
+  src: local("WorkSans-Bold"), url("./Work_Sans/static/WorkSans-Bold.ttf");
+}
+
+@font-face {
+  font-family: "WorkSans-BoldItalic";
+  src: local("WorkSans-BoldItalic"),
+    url("./Work_Sans/static/WorkSans-BoldItalic.ttf");
+}
+
+@font-face {
+  font-family: "WorkSans-ExtraBold";
+  src: local("WorkSans-ExtraBold"),
+    url("./Work_Sans/static/WorkSans-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: "WorkSans-ExtraBoldItalic";
+  src: local("WorkSans-ExtraBoldItalic"),
+    url("./Work_Sans/static/WorkSans-ExtraBoldItalic.ttf");
+}
+
+@font-face {
+  font-family: "WorkSans-ExtraLight";
+  src: local("WorkSans-ExtraLight"),
+    url("./Work_Sans/static/WorkSans-ExtraLight.ttf");
+}
+
+@font-face {
+  font-family: "WorkSans-ExtraLightItalic";
+  src: local("WorkSans-ExtraLightItalic"),
+    url("./Work_Sans/static/WorkSans-ExtraLightItalic.ttf");
+}
+
+@font-face {
+  font-family: "WorkSans-Italic";
+  src: local("WorkSans-Italic"), url("./Work_Sans/static/WorkSans-Italic.ttf");
+}
+
+@font-face {
+  font-family: "WorkSans-Light";
+  src: local("WorkSans-Light"), url("./Work_Sans/static/WorkSans-Light.ttf");
+}
+
+@font-face {
+  font-family: "WorkSans-LightItalic";
+  src: local("WorkSans-LightItalic"),
+    url("./Work_Sans/static/WorkSans-LightItalic.ttf");
+}
+
+@font-face {
+  font-family: "WorkSans-Medium";
+  src: local("WorkSans-Medium"), url("./Work_Sans/static/WorkSans-Medium.ttf");
+}
+
+@font-face {
+  font-family: "WorkSans-MediumItalic";
+  src: local("WorkSans-MediumItalic"),
+    url("./Work_Sans/static/WorkSans-MediumItalic.ttf");
+}
+
+@font-face {
+  font-family: "WorkSans-Regular";
+  src: local("WorkSans-Regular"), url("./Work_Sans/static/WorkSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: "WorkSans-SemiBold";
+  src: local("WorkSans-SemiBold"),
+    url("./Work_Sans/static/WorkSans-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "WorkSans-SemiBoldItalic";
+  src: local("WorkSans-SemiBoldItalic"),
+    url("./Work_Sans/static/WorkSans-SemiBoldItalic.ttf");
+}
+
+@font-face {
+  font-family: "WorkSans-Thin";
+  src: local("WorkSans-Thin"), url("./Work_Sans/static/WorkSans-Thin.ttf");
+}
+
+@font-face {
+  font-family: "WorkSans-ThinItalic";
+  src: local("WorkSans-ThinItalic"),
+    url("./Work_Sans/static/WorkSans-ThinItalic.ttf");
+}
+
+/* Font family - WorkSans ends here */

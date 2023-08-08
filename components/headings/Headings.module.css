@@ -1,0 +1,48 @@
+@import url("../../assets/fonts/fonts.css");
+
+.heading1 {
+  color: var(--unnamed-color-0b0e19);
+  text-align: left;
+  font: normal normal normal 4rem/5rem Poppins-ExtraBold;
+  letter-spacing: 0px;
+  color: #0b0e19;
+  opacity: 1;
+}
+
+.heading2 {
+  color: var(--unnamed-color-0b0e19);
+  font: normal normal normal 3rem/4.25rem Poppins-ExtraBold;
+  letter-spacing: 0px;
+  opacity: 1;
+}
+
+.heading3 {
+  color: var(--unnamed-color-0b0e19);
+  text-align: left;
+  font: normal normal normal 2rem/3rem Poppins-Medium;
+  letter-spacing: 0px;
+  color: #0b0e19;
+  opacity: 1;
+}
+  
+  .headstyle_left {
+    text-align: left;
+  }
+  
+  @media screen and (max-width: 992px) {
+    .headstyle_left {
+      text-align: center;
+    }
+  }
+  
+  .headingsmall {
+    word-break: break-word;
+  }
+  
+.heading4{
+  color: var(--unnamed-color-0b0e19);
+  font: normal normal normal 3rem/4.25rem Poppins-SemiBold;
+  letter-spacing: 0px;
+  opacity: 1;
+}
+  

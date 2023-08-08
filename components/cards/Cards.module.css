@@ -1,0 +1,74 @@
+@import url('../../assets/fonts/fonts.css');
+
+.card_text{
+    color: var(--unnamed-color-0b0e19);
+    text-align: left;
+    font: normal normal normal 2.2rem/4rem Poppins-SemiBold;
+    letter-spacing: 0px;
+    color: #0B0E19;
+    opacity: 1;
+}
+
+@media (min-width: 1200px){
+    .img_box{
+        margin: 3.125rem;
+        margin-left: 8rem;
+        margin-right: 8rem;
+    }    
+}
+
+@media (max-width: 620px){
+    .img_box{
+        margin: 2rem;
+    }    
+}
+
+/* MiniCards */
+
+.pro_card{
+    padding: 2rem;
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 3px solid #0B0E191A;
+    border-radius: 16px;
+    opacity: 1;
+}
+
+.pro_img{
+    max-width: 3.5rem;
+}
+
+.name{
+    color: var(--unnamed-color-0b0e19);
+    text-align: left;
+    font: normal normal 600 18px/27px Inter-Regular;
+    letter-spacing: 0px;
+    color: #0B0E19;
+    opacity: 1;
+}
+
+.designation{
+    color: var(--unnamed-color-0b0e19);
+    text-align: left;
+    font: normal normal normal 14px/27px Inter-Regular;
+    letter-spacing: 0px;
+    color: #0B0E19;
+    opacity: 1;
+}
+
+.title{
+    color: var(--unnamed-color-0b0e19);
+    text-align: left;
+    font: normal normal bold 18px/27px Inter-Regular;
+    letter-spacing: 0px;
+    color: #0B0E19;
+}
+
+.description{
+    color: var(--unnamed-color-0b0e19);
+    text-align: left;
+    font: normal normal normal 16px/27px Inter-Regular;
+    letter-spacing: 0px;
+    color: #0B0E19;
+}
+

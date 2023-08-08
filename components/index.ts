@@ -1,0 +1,15 @@
+export { Paragraphs } from "./paragraphs/Paragraph";
+export { PulseLogo } from "./logo/Pulse";
+export { HeadingSmall } from "./headings/HeadingSmall";
+export { TertiaryBtn } from "./buttons/TertiaryBtn";
+export { UnColoredPill } from "./pills/UnColoredPill";
+export { RatingChecked } from "./ratings/RatingChecked";
+export { RatingUnchecked } from "./ratings/RatingUnchecked";
+export { CustomerImage } from "./images/CustomerImage";
+export { Logo } from "./logo/Logo";
+export { Rectangle } from "./shapes/Rectangle";
+export { PrimaryBtn } from "./buttons/PrimaryBtn";
+export {Heading1} from "./headings/Heading1";
+export {Heading2} from "./headings/Heading2";
+export {Heading3} from "./headings/Heading3";
+export {Heading4} from "./headings/Heading4";
